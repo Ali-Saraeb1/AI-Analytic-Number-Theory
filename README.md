@@ -10,7 +10,7 @@ vectors are engineered from the initial zeros and the labels
 are the corresponding moduli. We train a feed-forward
 neural network and a random-forest classifier, and we get
 two vectors of probabilities, which we aggregate via a
-meta-ensemble to predict 𝑞. The model emperically verifies the conjecture for small 𝑞 in the sense that it achieves
+meta-ensemble to predict 𝑞. The model emperically verifies the conjecture for small 𝑞 in the sense that it achieves
 a perfect test accuracy of 1.0, provided that sufficient
 statistical properties of the zeros are incorporated in the
 training process. Based on the emperical evidence, we
