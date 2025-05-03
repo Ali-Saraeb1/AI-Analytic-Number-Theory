@@ -1,7 +1,7 @@
 Cite: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293203.svg)](https://doi.org/10.5281/zenodo.15293203)
 The second part of the paper emperically verifies a
 folklore conjecture in analytic number theory stating that
-“the modulus 𝑞 of a Dirichlet character 𝜒 is uniquely determined by the initial non-trivial zeros {𝜌1, . . . , 𝜌𝑘 } (for
+“the modulus 𝑞 of a Dirichlet character 𝜒 is uniquely determined by the initial non-trivial zeros {𝜌1, . . . , 𝜌𝑘 } (for
 some 𝑘 ∈ N) of the corresponding Dirirchlet L-function
 𝐿(𝑠, 𝜒)” for small modulus 𝑞. We form the dataset of
 zeros from LMFDB database and turn the conjecture’s
