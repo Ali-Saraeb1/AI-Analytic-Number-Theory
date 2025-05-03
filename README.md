@@ -1,5 +1,5 @@
-Cite:
-Paper: 
+Cite: \\
+Paper: \\
 @misc{saraeb2025artificial,
     title={Artificial Intelligence in Number Theory: LLMs for Algorithm Generation and Neural Networks for Conjecture Verification},
     author={Ali Saraeb},
@@ -7,8 +7,8 @@ Paper:
     eprint={2504.19451},
     archivePrefix={arXiv},
     primaryClass={math.NT}
-}
-Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293203.svg)](https://doi.org/10.5281/zenodo.15293203)
+} \\
+Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293203.svg)](https://doi.org/10.5281/zenodo.15293203) \\
 The second part of the paper emperically verifies a
 folklore conjecture in analytic number theory stating that
 “the modulus 𝑞 of a Dirichlet character 𝜒 is uniquely determined by the initial non-trivial zeros {𝜌1, . . . , 𝜌𝑘 } (for
