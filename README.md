@@ -1,14 +1,15 @@
 Cite: 
 
 Paper: 
-@misc{saraeb2025artificial,
-    title={Artificial Intelligence in Number Theory: LLMs for Algorithm Generation and Neural Networks for Conjecture Verification},
-    author={Ali Saraeb},
-    year={2025},
-    eprint={2504.19451},
-    archivePrefix={arXiv},
-    primaryClass={math.NT}
-} 
+@misc{saraeb2025artificialintelligencenumbertheory,
+      title={Artificial Intelligence in Number Theory: LLMs for Algorithm Generation and Ensemble Methods for Conjecture Verification}, 
+      author={Ali Saraeb},
+      year={2025},
+      eprint={2504.19451},
+      archivePrefix={arXiv},
+      primaryClass={math.NT},
+      url={https://arxiv.org/abs/2504.19451}, 
+}
 
 Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293203.svg)](https://doi.org/10.5281/zenodo.15293203) 
 
