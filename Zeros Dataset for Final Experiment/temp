@@ -1,0 +1,5 @@
+In Part II of the paper, we construct two labeled datasets for the classification problem using the first 25 nontrivial truncated zeros of Dirichlet \(L\)-functions as inputs, as retrieved from the LMFDB database \cite{LMFDB}.  Each datum is of the form
+\[
+q_\chi\;:\;\bigl(\Im(\rho_1),\Im(\rho_2),\dots,\Im(\rho_{25})\bigr),
+\]
+where \(q_\chi\) is the modulus of the non-principal Dirichlet character \(\chi\) modulo \(q\).  We restrict to moduli \(q\le200\). For each modulus (label)~$q$, we train on fewer than $\phi(q) - 3$ Dirichlet characters, where $\phi$ denotes Euler's totient function. We evaluate performance using a single test feature vector for each $q \leq 100$, and two test feature vectors for each $100 < q \leq 200$. 
