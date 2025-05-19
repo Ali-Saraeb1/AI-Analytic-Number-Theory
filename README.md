@@ -11,7 +11,7 @@ Paper:
       url={https://arxiv.org/abs/2504.19451}, 
 }
 
-Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15293203.svg)](https://doi.org/10.5281/zenodo.15293203) 
+Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15460772.svg)](https://doi.org/10.5281/zenodo.15460772)
 
 The second part of the paper emperically verifies a
 folklore conjecture in analytic number theory stating that
